@@ -21,30 +21,28 @@ My solutions are continuously synced from LeetCode to GitHub using **LeetHub v2*
 
 ---
 
-##  Topics Covered
+## 🧠 Topics Covered
 
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | Arrays | 🔄 In Progress |
-| 02 | Strings | 🔄 In Progress |
-| 03 | Hashing | 🔄 In Progress |
-| 04 | Linked List | 🔄 In Progress |
-| 05 | Stack | 🔄 In Progress |
-| 06 | Queue | 🔄 In Progress |
-| 07 | Binary Search | 🔄 In Progress |
-| 08 | Recursion | 🔄 In Progress |
-| 09 | Backtracking | 🔄 In Progress |
-| 10 | Trees | 🔄 In Progress |
-| 11 | Binary Search Tree | 🔄 In Progress |
-| 12 | Heap / Priority Queue | 🔄 In Progress |
-| 13 | Greedy | 🔄 In Progress |
-| 14 | Graphs | 🔄 In Progress |
-| 15 | Dynamic Programming | 🔄 In Progress |
-| 16 | Trie | 🔄 In Progress |
+| # | Topic | Problems |
+|---|-------|----------|
+| 01 | [Arrays](#arrays) | 1 |
+| 02 | [Strings](#strings) | 0 |
+| 03 | [Hashing](#hashing) | 0 |
+| 04 | [Linked List](#linked-list) | 0 |
+| 05 | [Stack](#stack) | 0 |
+| 06 | [Queue](#queue) | 0 |
+| 07 | [Binary Search](#binary-search) | 0 |
+| 08 | [Recursion](#recursion) | 0 |
+| 09 | [Backtracking](#backtracking) | 0 |
+| 10 | [Trees](#trees) | 0 |
+| 11 | [Binary Search Tree](#binary-search-tree) | 0 |
+| 12 | [Heap / Priority Queue](#heap--priority-queue) | 0 |
+| 13 | [Greedy](#greedy) | 0 |
+| 14 | [Graphs](#graphs) | 0 |
+| 15 | [Dynamic Programming](#dynamic-programming) | 0 |
+| 16 | [Trie](#trie) | 0 |
 
----
-
-## 📊 Progress
+##  Progress
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
@@ -57,7 +55,73 @@ My solutions are continuously synced from LeetCode to GitHub using **LeetHub v2*
 
 ---
 
-## 🛠️ Language & Tools
+## Problems by Topic
+
+### Arrays
+
+- [0001 — Two Sum](./0001-two-sum)
+
+### Strings
+
+_No problems yet._
+
+### Hashing
+
+_No problems yet._
+
+### Linked List
+
+_No problems yet._
+
+### Stack
+
+_No problems yet._
+
+### Queue
+
+_No problems yet._
+
+### Binary Search
+
+_No problems yet._
+
+### Recursion
+
+_No problems yet._
+
+### Backtracking
+
+_No problems yet._
+
+### Trees
+
+_No problems yet._
+
+### Binary Search Tree
+
+_No problems yet._
+
+### Heap / Priority Queue
+
+_No problems yet._
+
+### Greedy
+
+_No problems yet._
+
+### Graphs
+
+_No problems yet._
+
+### Dynamic Programming
+
+_No problems yet._
+
+### Trie
+
+_No problems yet._
+
+##  Language & Tools
 
 - **Language:** Java
 - **Platform:** LeetCode
