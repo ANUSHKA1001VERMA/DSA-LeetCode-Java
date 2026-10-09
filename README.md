@@ -230,3 +230,11 @@ I aim to continuously improve my solutions by revisiting problems, understanding
 ---
 
 ### Keep Learning. Keep Solving. Keep Improving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0461-hamming-distance) |
+<!---LeetCode Topics End-->
