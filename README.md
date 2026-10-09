@@ -236,5 +236,10 @@ I aim to continuously improve my solutions by revisiting problems, understanding
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0461-hamming-distance) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
