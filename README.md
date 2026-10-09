@@ -240,6 +240,7 @@ I aim to continuously improve my solutions by revisiting problems, understanding
 | [0201-bitwise-and-of-numbers-range](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0461-hamming-distance](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
