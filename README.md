@@ -238,6 +238,7 @@ I aim to continuously improve my solutions by revisiting problems, understanding
 | ------- |
 | [0190-reverse-bits](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/ANUSHKA1001VERMA/DSA-LeetCode-Java/tree/master/0476-number-complement) |
 ## Divide and Conquer
 |  |
 | ------- |
